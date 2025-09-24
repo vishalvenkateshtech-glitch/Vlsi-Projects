@@ -1,4 +1,4 @@
-module or_gate.v (
+module or_gate (
     input wire a,
     input wire b,
     output wire c
