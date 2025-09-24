@@ -1,19 +1,30 @@
 # VLSI Learning Journey
 
 This repository documents my progress in learning VLSI design using Verilog.  
-Each module is implemented with its testbench
+I am implementing various combinational and sequential circuits and documenting my experiments, simulations, and learning notes.
 
-## 🟢 Current Projects
+---
 
-### 1. AND Gate
-**Folder:** `AND Gate`  
-**Files:**
-- `and_gate.v` – AND and OR logic module  
-- `test_and_gate.v` – Testbench for simulation  
+## 🟢 Projects Overview
 
-**Description:**  
-The `and_gate` module takes two inputs (`a` and `b`) and produces:
-- `and_out` : AND output  
-- `or_out`  : OR output  
+The repository will include:
 
-The testbench cycles through all input combinations and prints the results using `$monitor`.
+- Verilog modules for different digital circuits  
+- Testbenches to simulate and verify each module  
+- Simulation outputs and waveform files (optional images/screenshots)  
+- Notes about my learning process and observations  
+
+The goal is to track my growth in VLSI design, understand digital logic concepts, and practice Verilog systematically.
+
+---
+
+## 📌 Notes
+
+- Only Verilog source and testbench files are tracked in Git.  
+- Compiled simulation executables and waveform files are ignored via `.gitignore`.  
+- Screenshots or images of simulation outputs are included optionally for reference.  
+
+---
+
+## License
+This project is open source and free to use for learning purposes.
