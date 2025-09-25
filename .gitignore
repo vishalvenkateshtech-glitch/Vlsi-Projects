@@ -1,3 +1,5 @@
 gates_tb
 not_gate_sim
 mux2to1_tb
+tb_mux4to1
+mux4to1.vcd
