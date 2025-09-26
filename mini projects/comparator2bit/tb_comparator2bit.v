@@ -34,5 +34,10 @@ module tb_comparator2bit;
 
         $finish;
     end
+    initial begin
+        $dumpfile("comparator.vcd");  // Name of the VCD file
+        $dumpvars(0, tb_comparator2bit);  // tb_comparator = your testbench module name
+    end
+
 
 endmodule
