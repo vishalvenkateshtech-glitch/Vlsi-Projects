@@ -6,3 +6,4 @@ mux4to1.vcd
 decoder_tb
 comparator_tb
 sim.vcd
+nand_tb
