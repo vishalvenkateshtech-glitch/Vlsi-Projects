@@ -4,3 +4,5 @@ mux2to1_tb
 mux_tb
 mux4to1.vcd
 decoder_tb
+comparator_tb
+sim.vcd
