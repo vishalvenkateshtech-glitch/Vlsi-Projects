@@ -8,3 +8,4 @@ comparator_tb
 sim.vcd
 nand_tb
 demux1to2_tb
+demux1to4_tb
