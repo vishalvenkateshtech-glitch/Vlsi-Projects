@@ -12,3 +12,4 @@ demux1to4_tb
 decoder2to4_tb
 encoder4to2_tb
 encoder8to3_tb
+norgate_tb
