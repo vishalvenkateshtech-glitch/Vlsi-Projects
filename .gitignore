@@ -10,3 +10,4 @@ nand_tb
 demux1to2_tb
 demux1to4_tb
 decoder2to4_tb
+encoder4to2_tb
