@@ -14,3 +14,4 @@ encoder4to2_tb
 encoder8to3_tb
 norgate_tb
 xorgate_tb
+xnor_tb
