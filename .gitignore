@@ -15,3 +15,4 @@ encoder8to3_tb
 norgate_tb
 xorgate_tb
 xnor_tb
+sr_flip_flop_tb
