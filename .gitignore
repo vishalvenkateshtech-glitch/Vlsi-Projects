@@ -17,3 +17,4 @@ xorgate_tb
 xnor_tb
 sr_flip_flop_tb
 d_flip_flop_tb
+sim
